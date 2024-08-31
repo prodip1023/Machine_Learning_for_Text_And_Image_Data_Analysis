@@ -1,2 +1,3 @@
-# Machine_Learning_for_Text_And_Image_Data_Analysis
-Machine Learning for Text And Image Data Analysis
+## Section 1 - INTRODUCTION TO TEXT AND IMAGE DATA ANALYSIS
+### Chapter 1 - Basics of Python
+### Chapter 2 - Text and Image Data Pre-Processing
