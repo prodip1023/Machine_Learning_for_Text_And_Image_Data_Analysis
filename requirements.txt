@@ -7,3 +7,5 @@ scikit-learn
 scipy
 seaborn
 statsmodels
+docx2txt
+nltk
