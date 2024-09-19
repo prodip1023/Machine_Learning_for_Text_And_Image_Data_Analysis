@@ -9,3 +9,6 @@ seaborn
 statsmodels
 docx2txt
 nltk
+scikit-image
+
+# python -m pip install -U scikit-image
