@@ -1,8 +1,8 @@
 ## Section 1 - INTRODUCTION TO TEXT AND IMAGE DATA ANALYSIS
 
-###  ![Chapter 1 - Basics of Python](https://github.com/prodip1023/Machine_Learning_for_Text_And_Image_Data_Analysis/tree/main/Section-1_introduction_to_text_image_data_analysis/Basics_of_Python)
+###  [Chapter 1 - Basics of Python](https://github.com/prodip1023/Machine_Learning_for_Text_And_Image_Data_Analysis/tree/main/Section-1_introduction_to_text_image_data_analysis/Basics_of_Python)
 
-### ![Chapter 2 - Text and Image Data Pre-Processing](https://github.com/prodip1023/Machine_Learning_for_Text_And_Image_Data_Analysis/tree/main/Section-1_introduction_to_text_image_data_analysis/Text_And_Image_Pre-Processing)
+### [Chapter 2 - Text and Image Data Pre-Processing](https://github.com/prodip1023/Machine_Learning_for_Text_And_Image_Data_Analysis/tree/main/Section-1_introduction_to_text_image_data_analysis/Text_And_Image_Pre-Processing)
 
 ## Section 2 - UNSUPERVISED MACHINE LEARNING FOR TEXT AND IAMGE DATA ANALYSIS
 
