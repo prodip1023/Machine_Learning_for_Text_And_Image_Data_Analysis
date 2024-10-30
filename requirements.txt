@@ -10,5 +10,6 @@ statsmodels
 docx2txt
 nltk
 scikit-image
+textblob
 
 # python -m pip install -U scikit-image
