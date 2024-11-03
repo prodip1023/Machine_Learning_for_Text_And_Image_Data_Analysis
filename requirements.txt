@@ -11,5 +11,8 @@ docx2txt
 nltk
 scikit-image
 textblob
+keras
+pytorch
+tensorflow
 
 # python -m pip install -U scikit-image
